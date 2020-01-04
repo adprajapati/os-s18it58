@@ -5,6 +5,6 @@ echo $a $b and $c
 if [ $a -le $b ]
 then
 echo $a l $b
-elsee
+else
 echo $b equal $a
 fi
